@@ -1,0 +1,3 @@
+http://example1.com/discuzx/portal.php
+http://www.example2.org.cn/forum.php
+https://www.example3.com/forum.php
